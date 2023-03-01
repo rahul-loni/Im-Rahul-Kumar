@@ -19,7 +19,7 @@
 - 📫 How to reach me **rahulloni000@gmaill.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left ">
 <a href="https://twitter.com/rahulku18270296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulku18270296" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahul-kumar-66a82a208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kumar-66a82a208" height="30" width="40" /></a>
 <a href="https://fb.com/rahul.loni.509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahul.loni.509" height="30" width="40" /></a>
